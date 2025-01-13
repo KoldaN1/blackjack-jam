@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1259156988,
+		"gameStarted": false,
+		"userPassed": false,
+		"dealerPassed": false,
+		"move": 0,
+		"cards": {
+			"player": [],
+			"dealer": [],
+			"deck": []
+		}
+	},
+	{
+		"id": 906201574,
+		"gameStarted": false,
+		"userPassed": false,
+		"move": 0,
+		"cards": {
+			"player": [],
+			"dealer": [],
+			"deck": []
+		},
+		"dealerPassed": false
+	}
+]
